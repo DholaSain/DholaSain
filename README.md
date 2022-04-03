@@ -12,11 +12,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/zainulabdn](https://github.com/zainulabdn)
+- 👨‍💻 All of my projects are available at [https://github.com/dholasain](https://github.com/dholasain)
 
 - 💬 Ask me about **Flutter, Dart**
 
-- 📫 How to reach me **zulabideen019@gmail.com**
+- 📫 How to reach me **dholasain99@gmail.com**
 
 - ⚡ Fun fact **I play video games.**
 
