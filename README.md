@@ -31,9 +31,9 @@
 ##  Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/zain-ul-abideen-982b75219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-ul-abideen-982b75219" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100012768786852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012768786852" height="30" width="40" /></a>
-<a href="https://twitter.com/_zain_ul_ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zain" height="30" width="40" /></a>
-<a href="https://instagram.com/_zain.ul.abideen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zain.ul.abideen" height="30" width="40" /></a>
-<a href="https://dribbble.com/_xain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="_xain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dholasain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dholasain" height="30" width="40" /></a>
+<a href="https://fb.com/dholasain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dholasain" height="30" width="40" /></a>
+<a href="https://twitter.com/dholasain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dholasain" height="30" width="40" /></a>
+<a href="https://instagram.com/dholasain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dholasain" height="30" width="40" /></a>
+<a href="https://dribbble.com/dholasain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dholasain" height="30" width="40" /></a>
 </p>
