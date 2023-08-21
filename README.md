@@ -1,11 +1,10 @@
 <p align="center">
   <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 </p>
-<br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mujahid aka DholaSain</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm H M Mujahid aka DholaSain</h1>
 
-<h3 align="center">Flutter Developer from Pakistan.</h3>
+<h3 align="center">Fullstack <Flutter + Springboot> Developer from Pakistan.</h3>
 <br>
 <br>
 
