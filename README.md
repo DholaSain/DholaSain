@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm H M Mujahid aka DholaSain</h1>
 
-<h3 align="center">Fullstack (Flutter + Springboot) Developer from Pakistan.</h3>
+<h3 align="center">Fullstack (Flutter + Springboot, NodeJs, NestJs) Developer from Pakistan.</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dholasain&label=Profile%20views&color=0e75b6&style=flat" alt="dholasain" /> </p>
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dholasain](https://github.com/dholasain)
 
-- 💬 Ask me about **Flutter, Dart, Springboot, Firebase**
+- 💬 Ask me about **Flutter, NodeJs, NestJs, Springboot Java, Firebase**
 
 - 📫 How to reach me **dholasain99@gmail.com**
 
