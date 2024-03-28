@@ -3,15 +3,17 @@
 
 <h3 align="center">Fullstack (Flutter + Springboot, NestJs, Firebase) Developer from Pakistan</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-dholasain-blue?style=flat&logo=LinkedIn)](https://linkedin.com/in/dholasain) [![Facebook](https://img.shields.io/badge/-dholasain-1877F2?style=flat&logo=Facebook&logoColor=white)](https://fb.com/dholasain99) [![Twitter](https://img.shields.io/badge/-dholasain-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dholasain) [![Instagram](https://img.shields.io/badge/-dholasain-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/dholasain)
-
 <p align="center"> 
  <img src="https://img.shields.io/badge/-dholasain-blue?style=flat&logo=LinkedIn" alt="dholasain" />
  <img src="https://img.shields.io/badge/-dholasain-1877F2?style=flat&logo=Facebook&logoColor=white" alt="dholasain" />
  <img src="https://img.shields.io/badge/-dholasain-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="dholasain" />
  <img src="https://img.shields.io/badge/-dholasain-C13584?style=flat&logo=Instagram&logoColor=white" alt="dholasain" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dholasain&label=Profile%20views&color=0e75b6&style=flat" alt="dholasain" /> <img src="https://wakatime.com/badge/user/4a62ef3e-1fc5-4746-84de-0d41661393ad.svg" alt="dholasain" /> </p>
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=dholasain&label=Profile%20views&color=0e75b6&style=flat" alt="dholasain" />
+ <img src="https://wakatime.com/badge/user/4a62ef3e-1fc5-4746-84de-0d41661393ad.svg" alt="dholasain" />
+</p>
 
 ## 🚀 Languages and Tools
 
