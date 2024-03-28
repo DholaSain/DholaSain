@@ -26,4 +26,4 @@
 - 💬 Ask me about **Flutter, NodeJs, NestJs, Springboot Java, Firebase**
 - 📫 How to reach me **dholasain99@gmail.com**
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dholasain)](https://github.com/anuraghazra/github-readme-stats)
+[![DholaSain's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dholasain)](https://github.com/anuraghazra/github-readme-stats) ![DholaSain's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dholasain\&layout=compact)
