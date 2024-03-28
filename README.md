@@ -2,6 +2,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm H M Mujahid aka DholaSain</h1>
 
 <h3 align="center">Fullstack (Flutter + Springboot, NestJs, Firebase) Developer from Pakistan</h3>
+[![LinkedIn](https://img.shields.io/badge/-dholasain-blue?style=flat&logo=LinkedIn)](https://linkedin.com/in/dholasain) [![Facebook](https://img.shields.io/badge/-dholasain-1877F2?style=flat&logo=Facebook&logoColor=white)](https://fb.com/dholasain99) [![Twitter](https://img.shields.io/badge/-dholasain-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dholasain) [![Instagram](https://img.shields.io/badge/-dholasain-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/dholasain)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dholasain&label=Profile%20views&color=0e75b6&style=flat" alt="dholasain" /> </p>
 
@@ -23,6 +25,4 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/dholasain)
 - 💬 Ask me about **Flutter, NodeJs, NestJs, Springboot Java, Firebase**
 - 📫 How to reach me **dholasain99@gmail.com**
-- [![LinkedIn](https://img.shields.io/badge/-dholasain-blue?style=flat&logo=LinkedIn)](https://linkedin.com/in/dholasain) [![Facebook](https://img.shields.io/badge/-dholasain-1877F2?style=flat&logo=Facebook&logoColor=white)](https://fb.com/dholasain99) [![Twitter](https://img.shields.io/badge/-dholasain-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dholasain) [![Instagram](https://img.shields.io/badge/-dholasain-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/dholasain)
-
 
