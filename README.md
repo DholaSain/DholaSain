@@ -33,5 +33,19 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/dholasain)
 - 💬 Ask me about **Flutter, NodeJs, NestJs, Springboot Java, Firebase**
 - 📫 How to reach me **dholasain99@gmail.com**
+  
+## 💼 Experience
+
+#### Software Engineer at Tweeq (Feb 2024 - Present)
+-   Implemented new features and enhancements in a mobile application.
+-   Practiced Test-Driven Development to ensure reliable, high-quality code.
+-   Integrated gRPC for efficient, scalable inter-service communication.
+-   Delivered robust fintech solutions as part of a progressive tech team.
+- Download from [![Tweeq Playstore](https://img.shields.io/badge/-Playstore-000?&logo=android)](https://play.google.com/store/apps/details?id=sa.tweeq.app) [![Tweeq Appstore](https://img.shields.io/badge/-Appstore-000?&logo=app-store)](https://apps.apple.com/sa/app/tweeq-%D8%B7%D9%88%D9%8A%D9%82/id1537393048)
+#### Full-stack Team Lead at Geekybugs (Feb 2022 - Present)
+- Developed and deployed multiple apps using Flutter for both Android and iOS.
+- Worked on backend development with NodeJs, NestJs and Springboot, integrating RESTful services.
+- Collaborated with frontend and backend teams to implement new features and optimize existing ones.
+
 
 ![DholaSain's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dholasain\&layout=compact)
