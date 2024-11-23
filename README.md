@@ -48,4 +48,14 @@
 - Collaborated with frontend and backend teams to implement new features and optimize existing ones.
 
 
+## 📊 &nbsp;Stats
+
+<br>
+
+![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dholasain&theme=zenburn)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dholasain&theme=zenburn)&nbsp;&nbsp;
+&nbsp;
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dholasain&theme=zenburn&utcOffset=8)
+
 ![DholaSain's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dholasain\&layout=compact)
