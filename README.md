@@ -36,7 +36,7 @@
   
 ## 💼 Experience
 
-#### Software Engineer at [Tweeq](https://tweeq.sa/) (Feb 2024 - Present)
+#### Software Engineer at [Tweeq](https://tweeq.sa/) (Feb 2024 - Oct 2024)
 -   Implemented new features and enhancements in a mobile application.
 -   Practiced Test-Driven Development to ensure reliable, high-quality code.
 -   Integrated gRPC for efficient, scalable inter-service communication.
